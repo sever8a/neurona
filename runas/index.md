@@ -28,3 +28,7 @@ El despliegue del modelo en un entorno de producción, es clava para establecer 
 También es relevante ser consciente de posibles cambios y ajustes necesarios en el modelo. Resulta útil establecer métricas de análisis de rendimiento que permitan conocer la efectivad de la solución.
 
 Un proyecto puede utilizar varios modelos de inteligencia artificial. En general suele ser necesario realizar varias tareas para conseguir una solución completa.
+
+## El origen de datos
+
+El dato es fundamental en un proyecto de inteligencia artificial.
