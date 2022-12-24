@@ -11,6 +11,16 @@ La inteligencia artificial basada en datos, intenta encontrar correlaciones entr
 
 Cómo se puede realizar el aprendizaje de una inteligencia artíficial? La primera posibilidad es disponer de modelos que referencien las posibles respuestas. De esta forma el modelo tiene una guía de cuáles deben ser las respuestas.
 
-## El aprendizaje
+## Proyectos de inteligencia artificial
+**No es un producto, es un proceso**
+Comienza con la definición y concreción del problema, y a partir de esta opción se podrá valorar el resultado conseguido.
 
-Cómo se puede realizar el aprendizaje de una inteligencia artíficial? La primera posibilidad es disponer de modelos que referencien las posibles respuestas. De esta forma el modelo tiene una guía de cuáles deben ser las respuestas.
+Es necesario determinar los datos disponibles. El origen de datos. Los datos requerirán de una fase de preprocesado para poder adaptarlos a los procesos matemáticos del modelo de inteligencia artificial utilizado.
+
+El modelo elegido, se basa en algortimos y estructuras matemáticas. Existe una bibliografía orientando el uso de diferentes modelos para cada tipo de problema.
+
+Realización de un proceso de entrenamiento. No siempre es necesario comenzar un entrenamiento desde el principio, al contrario, es muy adecuado aprovechar modelos ya entrenados para ajustar parámetros de reentrenamiento para el problema que se quiere resolver.
+
+El despliegue del modelo en un entorno de producción, es clava para establecer su utilidad.
+
+También es relevante ser consciente de que pueden ser necesarios ajustes en el modelo tras su uso, para que siga siendo efectiva la solución.
