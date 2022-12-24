@@ -1,0 +1,8 @@
+site_name: Deep Learning
+site_description: Aprendizaje progresivo para conocer las posibilidades de la IA.
+site_author: IES Severo Ochoa
+site_dir: resultado
+docs_dir: runas
+
+theme:
+  name: 'material'
