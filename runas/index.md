@@ -1,7 +1,17 @@
 # Inteligencia artificial avanzada
 
-La inteligencia artificial se plantea a diferentes nives, según su evolución histórica. 
-En un primer momento se desarrollan procesos algorítmicos que intentan resolver los problemas o situaciones planteadas. Se trata de una inteligencia programada que requiere de algoritmos para todo tipo de problema. No siempre es posible realizar este tipo de programación, y en ocasiones las respuestas (o soluciones) tienen una fuerte dependencia de algunos parámetros que no siempre es posible y fácil incorporar a un programa algorítmico.
+## Dónde estamos ahora?
+La inteligencia artificial se basa en muchos elementos y principios que provienen de disciplinas muy diferentes, desde la matemática y la estadística hasta las ciencias de la computación, pasando por las actividades empresariales.
+
+Es muy difícil encontrar personas que dominen estos tres elementos y todavía lo es más que lo hagan en más de un ámbito.
+
+Se trata de proporcionar una perspectiva general y global de la inteligencia artificial.
+
+## Avances históricos
+La inteligencia artificial, la inteligencia de negocio y el análisis de datos se plantea a diferentes nives, según su evolución histórica. Las oportunidades derivadas del uso de la información disponible y su análisis en cualquier organización.
+Extraer valor de los datos que, a su vez consigan que la organización tome decisiones más informadas y que consiga un retorno positivo.
+
+En un primer momento se desarrollan procesos algorítmicos que intentan resolver los problemas o situaciones planteadas, esfuerzos centrados en dotar de inteligencia a las máquinas. Se trata de una inteligencia programada que requiere de algoritmos para todo tipo de problema. No siempre es posible realizar este tipo de programación, y en ocasiones las respuestas (o soluciones) tienen una fuerte dependencia de algunos parámetros que no siempre es posible y fácil incorporar a un programa algorítmico.
 
 Al análisis estadístico de los datos y la obtención de información que resulta más fácil de interpretar se ha utilizado como ayuda para disponer de conociiento sobre diferentes situaciones. En este, tipo de inteligencia artificial (inteligencia analítica) se busca la relación cusa efecto entre los diferentes datos. En este caso la representación gráfica y el uso de métricas estadísticas ayuda a establecer comparaciones e interpretaciones. Pero es necesaria la intervención de una persona experta para realizar una correcta interpretación y tomar acciones posteriormente. 
 
