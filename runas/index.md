@@ -13,6 +13,24 @@ Resulta clave extraer valor de los datos, y a la vez conseguir que la organizaci
 ### Modelos estadísticos
 La estadística se apoya en el uso de la informática y su poder de computación para acelerar todas sus operaciones.
 La minería de datos, denostada por realizar el análisis de datos sin plantear hipótesis previas, evolucionó hacia la extracción de **información**.
+
+
+### Minería de datos
+Denostada por realizar el análisis de datos sin hipótesis previas. Debe evolucionar hacia la extracción de **información**.
+
+### Inteligencia de negocio
+Toma de decisiones basadas en datos. Se fundamenta en utilizar información estructurada, **propia de cada organización**, almacenada en bases de datos relacionales (ordenadores centrales que controlan procesos de producción).
+Su propósito es ayudar a la toma de decisiones informadas, es decir con una justificación clara. Se basa en la transformación de datos masivos y de bajo nivel, en información más inteligible para los equipos directivos y de toma de decisiones.
+
+Se emplean herramientas para la extracción, la transformación y carga de datos (ETL) para convertir e integrar los datos específicos de cada negocio. Los analístas de datos utilizan herramientas que emplean lenguajes de consulta de bases de datos y cubos OLAP (Online Analytical Processing), diseñadas para facilitar el acceso a los datos de trabajo y que también están complementadas con herramientas gráficas rudimentarias que permiten explorar algunas características de los datos.
+
+Cabe destacar el desarrollo de los cuadros de mando y los registros de resultados, que ayudan a visualizar y analizar una serie de métricas de rendimiento.
+
+Son herramientas orientadas a generar informes, a lo que hay que añadir la expansión de las técnicas estadísticas y de minería de datos, para asociar, segmentar, agrupar y clasificar datos, preparar modelos de regresión, de detección de anomalías e incluso hacer predicciones.
+
+La minería de datos se basa en procesos algorítmicos y la obtención de información a partir de bases de datos. Que implica pasos adicionales como la ***preparación de los datos, selección, limpieza, incorporación de información de otras fuentes e interpolación de los resultados de la minería de datos***, con el objetivo esenciál de obtener conocimiento útil a partir de datos.
+
+
 En un primer momento se desarrollan procesos algorítmicos que intentan resolver los problemas o situaciones planteadas, esfuerzos centrados en dotar de inteligencia a las máquinas. Se trata de una inteligencia programada que requiere de algoritmos para todo tipo de problema. No siempre es posible realizar este tipo de programación, y en ocasiones las respuestas (o soluciones) tienen una fuerte dependencia de algunos parámetros que no siempre es posible y fácil incorporar a un programa algorítmico.
 
 Al análisis estadístico de los datos y la obtención de información que resulta más fácil de interpretar se ha utilizado como ayuda para disponer de conociiento sobre diferentes situaciones. En este, tipo de inteligencia artificial (inteligencia analítica) se busca la relación cusa efecto entre los diferentes datos. En este caso la representación gráfica y el uso de métricas estadísticas ayuda a establecer comparaciones e interpretaciones. Pero es necesaria la intervención de una persona experta para realizar una correcta interpretación y tomar acciones posteriormente. 
